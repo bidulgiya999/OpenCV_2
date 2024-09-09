@@ -1,5 +1,4 @@
-import cv2
-import sys
+import cv2,sys
 import numpy as np
 filepath= cv2.imread("misson/01.png")
 # 이미지 읽기 함수
