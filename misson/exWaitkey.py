@@ -1,4 +1,5 @@
-import cv2, sys
+import cv2
+import sys
 import numpy as np
 
 # 화살표를 누르면 원이 이동되는 어플
